@@ -1,0 +1,31 @@
+[
+  {
+    "name": "LAMAW",
+    "mobileNumber": "09123456789",
+    "email": "LAMAW@GMAIL.COM",
+    "address": "sadnadada",
+    "gender": "male",
+    "password": "e219ca6b0786aaca7f454ca68bec886a",
+    "birthdate": "12/31/2024"
+  },
+  {
+    "name": "Testing",
+    "mobileNumber": "09123456789",
+    "email": "dan@yopmail.com",
+    "address": "123",
+    "gender": "male",
+    "password": "e219ca6b0786aaca7f454ca68bec886a",
+    "unencryptedPassword": "123456",
+    "birthdate": "01/23/2024"
+  },
+  {
+    "name": "Yeet",
+    "mobileNumber": "09123456789",
+    "email": "yeet@gmail.com",
+    "address": "123",
+    "gender": "male",
+    "password": "e219ca6b0786aaca7f454ca68bec886a",
+    "unencryptedPassword": "123456",
+    "birthdate": "2024-07-31"
+  }
+]
